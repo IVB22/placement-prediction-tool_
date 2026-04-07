@@ -1,0 +1,16 @@
+com\futurepath\commands\Command.class
+com\futurepath\repo\RunRepository.class
+com\futurepath\service\MlApiService.class
+com\futurepath\console\MenuRenderer.class
+com\futurepath\Main.class
+com\futurepath\db\Db.class
+com\futurepath\util\PdfUtil.class
+com\futurepath\config\AppConfig.class
+com\futurepath\registry\CommandRegistry.class
+com\futurepath\console\ConsoleApp.class
+com\futurepath\util\JsonUtil.class
+com\futurepath\commands\AnalyzeCommand.class
+com\futurepath\model\MatchResponse.class
+com\futurepath\model\CampusProfile.class
+com\futurepath\commands\HistoryCommand.class
+com\futurepath\model\MatchRequest.class
